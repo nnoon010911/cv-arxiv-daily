@@ -1,4 +1,4 @@
-## Updated on 2026.04.25
+## Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2026-04-19**|**Recovery Guarantees for Continual Learning of Dependent Tasks: Memory, Data-Dependent Regularization, and Data-Dependent Weights**|Liangzu Peng et.al.|[2604.17578](http://arxiv.org/abs/2604.17578)|null|
 |**2026-04-19**|**BreathAI: Transfer Learning-Based Thermal Imaging for Automated Breathing Pattern Recognition**|Hamza Kheddar et.al.|[2604.17442](http://arxiv.org/abs/2604.17442)|null|
 
-<p align=right>(<a href=#updated-on-20260425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 ## Diffusion-based Distillation
 
@@ -43,7 +43,7 @@
 |**2026-04-23**|**TopoStyle: Supporting Iterative Design with Generative AI for 2.5D Topology Optimization**|Shuyue Feng et.al.|[2604.21315](http://arxiv.org/abs/2604.21315)|null|
 |**2026-04-23**|**LatRef-Diff: Latent and Reference-Guided Diffusion for Facial Attribute Editing and Style Manipulation**|Wenmin Huang et.al.|[2604.21279](http://arxiv.org/abs/2604.21279)|null|
 
-<p align=right>(<a href=#updated-on-20260425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 ## Vision-Language Distillation
 
@@ -60,7 +60,7 @@
 |**2026-04-23**|**Reasoning About Traversability: Language-Guided Off-Road 3D Trajectory Planning**|Byounggun Park et.al.|[2604.21249](http://arxiv.org/abs/2604.21249)|null|
 |**2026-04-23**|**Reinforcing 3D Understanding in Point-VLMs via Geometric Reward Credit Assignment**|Jingkun Chen et.al.|[2604.21160](http://arxiv.org/abs/2604.21160)|null|
 
-<p align=right>(<a href=#updated-on-20260425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 ## Domain Generalization
 
@@ -77,7 +77,7 @@
 |**2026-04-22**|**TRAVELFRAUDBENCH: A Configurable Evaluation Framework for GNN Fraud Ring Detection in Travel Networks**|Bhavana Sajja et.al.|[2604.21093](http://arxiv.org/abs/2604.21093)|null|
 |**2026-04-22**|**Domain-Aware Hierarchical Contrastive Learning for Semi-Supervised Generalization Fault Diagnosis**|Junyu Ren et.al.|[2604.20928](http://arxiv.org/abs/2604.20928)|null|
 
-<p align=right>(<a href=#updated-on-20260425>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
