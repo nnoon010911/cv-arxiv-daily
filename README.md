@@ -1,4 +1,4 @@
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**Deep Reprogramming Distillation for Medical Foundation Models**|Siyuan Du et.al.|[2605.04447](http://arxiv.org/abs/2605.04447)|null|
+|**2026-05-05**|**Budgeted LoRA: Distillation as Structured Compute Allocation for Efficient Inference**|Mohammed Sabry et.al.|[2605.04341](http://arxiv.org/abs/2605.04341)|null|
+|**2026-05-05**|**Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices**|Francesco Tosini et.al.|[2605.04282](http://arxiv.org/abs/2605.04282)|null|
 |**2026-05-05**|**Unified Multimodal Visual Tracking with Dual Mixture-of-Experts**|Lingyi Hong et.al.|[2605.03716](http://arxiv.org/abs/2605.03716)|null|
 |**2026-05-05**|**Real Image Denoising with Knowledge Distillation for High-Performance Mobile NPUs**|Faraz Kayani et.al.|[2605.03680](http://arxiv.org/abs/2605.03680)|null|
 |**2026-05-04**|**Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection**|Mohamad Khajezade et.al.|[2605.02860](http://arxiv.org/abs/2605.02860)|null|
@@ -61,12 +64,22 @@
 |**2026-04-19**|**Recovery Guarantees for Continual Learning of Dependent Tasks: Memory, Data-Dependent Regularization, and Data-Dependent Weights**|Liangzu Peng et.al.|[2604.17578](http://arxiv.org/abs/2604.17578)|null|
 |**2026-04-19**|**BreathAI: Transfer Learning-Based Thermal Imaging for Automated Breathing Pattern Recognition**|Hamza Kheddar et.al.|[2604.17442](http://arxiv.org/abs/2604.17442)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Diffusion-based Distillation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**Taming Outlier Tokens in Diffusion Transformers**|Xiaoyu Wu et.al.|[2605.05206](http://arxiv.org/abs/2605.05206)|null|
+|**2026-05-06**|**D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models**|Dengyang Jiang et.al.|[2605.05204](http://arxiv.org/abs/2605.05204)|null|
+|**2026-05-06**|**PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World**|Yunhan Yang et.al.|[2605.05163](http://arxiv.org/abs/2605.05163)|null|
+|**2026-05-06**|**PSK at SemEval-2026 Task 9: Multilingual Polarization Detection Using Ensemble Gemma Models with Synthetic Data Augmentation**|Srikar Kashyap Pulipaka et.al.|[2605.05159](http://arxiv.org/abs/2605.05159)|null|
+|**2026-05-06**|**Computer-Aided Design Generation by Cascaded Discrete Diffusion Model**|Honghu Pan et.al.|[2605.05031](http://arxiv.org/abs/2605.05031)|null|
+|**2026-05-06**|**Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models**|Bartlomiej Sobieski et.al.|[2605.05026](http://arxiv.org/abs/2605.05026)|null|
+|**2026-05-06**|**Concurrence of Symmetry Breaking and Nonlocality Phase Transitions in Diffusion Models**|Yifan F. Zhang et.al.|[2605.04830](http://arxiv.org/abs/2605.04830)|null|
+|**2026-05-06**|**MIRAGE: Retrieval and Generation of Multimodal Images and Texts for Medical Education**|Miguel Diaz Benito et.al.|[2605.04772](http://arxiv.org/abs/2605.04772)|null|
+|**2026-05-06**|**Contact Matrix: Enhancing Dance Motion Synthesis with Precise Interaction Modeling**|Xuhai Chen et.al.|[2605.04662](http://arxiv.org/abs/2605.04662)|null|
+|**2026-05-06**|**Advancing Aesthetic Image Generation via Composition Transfer**|Kai Zou et.al.|[2605.04609](http://arxiv.org/abs/2605.04609)|null|
 |**2026-05-05**|**Large Language Models are Universal Reasoners for Visual Generation**|Sucheng Ren et.al.|[2605.04040](http://arxiv.org/abs/2605.04040)|null|
 |**2026-05-05**|**Flow Sampling: Learning to Sample from Unnormalized Densities via Denoising Conditional Processes**|Aaron Havens et.al.|[2605.03984](http://arxiv.org/abs/2605.03984)|null|
 |**2026-05-05**|**DMGD: Train-Free Dataset Distillation with Semantic-Distribution Matching in Diffusion Models**|Qichao Wang et.al.|[2605.03877](http://arxiv.org/abs/2605.03877)|null|
@@ -148,12 +161,22 @@
 |**2026-04-23**|**TopoStyle: Supporting Iterative Design with Generative AI for 2.5D Topology Optimization**|Shuyue Feng et.al.|[2604.21315](http://arxiv.org/abs/2604.21315)|null|
 |**2026-04-23**|**LatRef-Diff: Latent and Reference-Guided Diffusion for Facial Attribute Editing and Style Manipulation**|Wenmin Huang et.al.|[2604.21279](http://arxiv.org/abs/2604.21279)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Vision-Language Distillation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**Wasserstein-Aligned Localisation for VLM-Based Distributional OOD Detection in Medical Imaging**|Bernhard Kainz et.al.|[2605.05161](http://arxiv.org/abs/2605.05161)|null|
+|**2026-05-06**|**Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation**|Hongxu Chen et.al.|[2605.05054](http://arxiv.org/abs/2605.05054)|null|
+|**2026-05-06**|**When Relations Break: Analyzing Relation Hallucination in Vision-Language Model Under Rotation and Noise**|Philip Wootaek Shin et.al.|[2605.05045](http://arxiv.org/abs/2605.05045)|null|
+|**2026-05-06**|**Prompt-Anchored Vision-Text Distillation for Lifelong Person Re-identification**|Wen Wen et.al.|[2605.05027](http://arxiv.org/abs/2605.05027)|null|
+|**2026-05-06**|**FairEnc: A Fair Vision-Language Model with Fair Vision and Text Encoders for Glaucoma Detection**|Mohamed Elhabebe et.al.|[2605.04882](http://arxiv.org/abs/2605.04882)|null|
+|**2026-05-06**|**Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing**|Miao Wang et.al.|[2605.04733](http://arxiv.org/abs/2605.04733)|null|
+|**2026-05-06**|**RF-Analyzer: Can Vision-Language Models Learn RF Understanding from Synthetic Data?**|Anis Bara et.al.|[2605.04676](http://arxiv.org/abs/2605.04676)|null|
+|**2026-05-06**|**CAST: Mitigating Object Hallucination in Large Vision-Language Models via Caption-Guided Visual Attention Steering**|Qiming Li et.al.|[2605.04641](http://arxiv.org/abs/2605.04641)|null|
+|**2026-05-06**|**Advancing Aesthetic Image Generation via Composition Transfer**|Kai Zou et.al.|[2605.04609](http://arxiv.org/abs/2605.04609)|null|
+|**2026-05-06**|**Reward-Guided Semantic Evolution for Test-time Adaptive Object Detection**|Lihua Zhou et.al.|[2605.04531](http://arxiv.org/abs/2605.04531)|null|
 |**2026-05-05**|**StateVLM: A State-Aware Vision-Language Model for Robotic Affordance Reasoning**|Xiaowen Sun et.al.|[2605.03927](http://arxiv.org/abs/2605.03927)|null|
 |**2026-05-05**|**Quantifying the human visual exposome with vision language models**|Christian Rominger et.al.|[2605.03863](http://arxiv.org/abs/2605.03863)|null|
 |**2026-05-05**|**Before Forgetting, Learn to Remember: Revisiting Foundational Learning Failures in LVLM Unlearning Benchmarks**|JuneHyoung Kwon et.al.|[2605.03759](http://arxiv.org/abs/2605.03759)|null|
@@ -232,12 +255,22 @@
 |**2026-04-23**|**Reasoning About Traversability: Language-Guided Off-Road 3D Trajectory Planning**|Byounggun Park et.al.|[2604.21249](http://arxiv.org/abs/2604.21249)|null|
 |**2026-04-23**|**Reinforcing 3D Understanding in Point-VLMs via Geometric Reward Credit Assignment**|Jingkun Chen et.al.|[2604.21160](http://arxiv.org/abs/2604.21160)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Domain Generalization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization**|Yu-Hsi Chen et.al.|[2605.05136](http://arxiv.org/abs/2605.05136)|null|
+|**2026-05-06**|**Order Matters: Improving Domain Adaptation by Reordering Data**|Andrea Napoli et.al.|[2605.05084](http://arxiv.org/abs/2605.05084)|null|
+|**2026-05-06**|**Prompt-Anchored Vision-Text Distillation for Lifelong Person Re-identification**|Wen Wen et.al.|[2605.05027](http://arxiv.org/abs/2605.05027)|null|
+|**2026-05-06**|**Low-Rank Adaptation of Geospatial Foundation Models for Wildfire Mapping Using Sentinel-2 Data**|Ali Shibli et.al.|[2605.04989](http://arxiv.org/abs/2605.04989)|null|
+|**2026-05-06**|**PINSIGHT: A Comprehensive Threat Exploration of Domain-Adaptive Wi-Fi based PIN Code Inference**|Johannes Kortz et.al.|[2605.04570](http://arxiv.org/abs/2605.04570)|null|
+|**2026-05-06**|**RaguTeam at SemEval-2026 Task 8: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation**|Ivan Bondarenko et.al.|[2605.04523](http://arxiv.org/abs/2605.04523)|null|
+|**2026-05-06**|**JASTIN: Aligning LLMs for Zero-Shot Audio and Speech Evaluation via Natural Language Instructions**|Leying Zhang et.al.|[2605.04505](http://arxiv.org/abs/2605.04505)|null|
+|**2026-05-05**|**DeFed-GMM-DaDiL: A Decentralized Federated Framework for Domain Adaptation**|Rebecca Clain et.al.|[2605.04324](http://arxiv.org/abs/2605.04324)|null|
+|**2026-05-05**|**Are LLMs Ready for Conflict Monitoring? Empirical Evidence from West Africa**|Hoffmann Muki et.al.|[2605.04177](http://arxiv.org/abs/2605.04177)|null|
+|**2026-05-05**|**A Transferable Machine Learning Approach to Predict Optimized Orbitals for Electronic Structure Problems**|Lucas van der Horst et.al.|[2605.04174](http://arxiv.org/abs/2605.04174)|null|
 |**2026-05-05**|**Domain-Adaptive Dense Retrieval for Brazilian Legal Search**|Jayr Pereira et.al.|[2605.04005](http://arxiv.org/abs/2605.04005)|null|
 |**2026-05-05**|**Aspect-Aware Content-Based Recommendations for Mathematical Research Papers**|Ankit Satpute et.al.|[2605.03861](http://arxiv.org/abs/2605.03861)|null|
 |**2026-05-05**|**A Robust Unsupervised Domain Adaptation Framework for Medical Image Classification Using RKHS-MMD**|Sapna Sachan et.al.|[2605.03787](http://arxiv.org/abs/2605.03787)|null|
@@ -313,7 +346,7 @@
 |**2026-04-22**|**TRAVELFRAUDBENCH: A Configurable Evaluation Framework for GNN Fraud Ring Detection in Travel Networks**|Bhavana Sajja et.al.|[2604.21093](http://arxiv.org/abs/2604.21093)|null|
 |**2026-04-22**|**Domain-Aware Hierarchical Contrastive Learning for Semi-Supervised Generalization Fault Diagnosis**|Junyu Ren et.al.|[2604.20928](http://arxiv.org/abs/2604.20928)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
