@@ -1,4 +1,4 @@
-## Updated on 2026.05.07
+## Updated on 2026.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,9 +15,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**MemReranker: Reasoning-Aware Reranking for Agent Memory Retrieval**|Chunyu Li et.al.|[2605.06132](http://arxiv.org/abs/2605.06132)|null|
+|**2026-05-07**|**Near-Policy: Accelerating On-Policy Distillation via Asynchronous Generation and Selective Packing**|Miao Rang et.al.|[2605.05940](http://arxiv.org/abs/2605.05940)|null|
+|**2026-05-07**|**HCInfer: An Efficient Inference System via Error Compensation for Resource-Constrained Devices**|Shen Xu et.al.|[2605.05819](http://arxiv.org/abs/2605.05819)|null|
+|**2026-05-07**|**FedeKD: Energy-Based Gating for Robust Federated Knowledge Distillation under Heterogeneous Settings**|Quang-Huy Nguyen et.al.|[2605.05553](http://arxiv.org/abs/2605.05553)|null|
+|**2026-05-04**|**Memory-Efficient EDA Denoising via Knowledge Distillation for Wearable IoT Under Severe Motion Artifacts and Underwater Conditions**|Yongbin Lee et.al.|[2605.05246](http://arxiv.org/abs/2605.05246)|null|
 |**2026-05-06**|**Deep Reprogramming Distillation for Medical Foundation Models**|Siyuan Du et.al.|[2605.04447](http://arxiv.org/abs/2605.04447)|null|
 |**2026-05-05**|**Budgeted LoRA: Distillation as Structured Compute Allocation for Efficient Inference**|Mohammed Sabry et.al.|[2605.04341](http://arxiv.org/abs/2605.04341)|null|
-|**2026-05-05**|**Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices**|Francesco Tosini et.al.|[2605.04282](http://arxiv.org/abs/2605.04282)|null|
+|**2026-05-07**|**Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices**|Francesco Tosini et.al.|[2605.04282](http://arxiv.org/abs/2605.04282)|null|
 |**2026-05-05**|**Unified Multimodal Visual Tracking with Dual Mixture-of-Experts**|Lingyi Hong et.al.|[2605.03716](http://arxiv.org/abs/2605.03716)|null|
 |**2026-05-05**|**Real Image Denoising with Knowledge Distillation for High-Performance Mobile NPUs**|Faraz Kayani et.al.|[2605.03680](http://arxiv.org/abs/2605.03680)|null|
 |**2026-05-04**|**Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection**|Mohamad Khajezade et.al.|[2605.02860](http://arxiv.org/abs/2605.02860)|null|
@@ -64,12 +69,22 @@
 |**2026-04-19**|**Recovery Guarantees for Continual Learning of Dependent Tasks: Memory, Data-Dependent Regularization, and Data-Dependent Weights**|Liangzu Peng et.al.|[2604.17578](http://arxiv.org/abs/2604.17578)|null|
 |**2026-04-19**|**BreathAI: Transfer Learning-Based Thermal Imaging for Automated Breathing Pattern Recognition**|Hamza Kheddar et.al.|[2604.17442](http://arxiv.org/abs/2604.17442)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Diffusion-based Distillation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667](http://arxiv.org/abs/2605.06667)|null|
+|**2026-05-07**|**Relit-LiVE: Relight Video by Jointly Learning Environment Video**|Weiqing Xiao et.al.|[2605.06658](http://arxiv.org/abs/2605.06658)|null|
+|**2026-05-07**|**Diverse Sampling in Diffusion Models with Marginal Preserving Particle Guidance**|Gal Vinograd et.al.|[2605.06553](http://arxiv.org/abs/2605.06553)|null|
+|**2026-05-07**|**DCR: Counterfactual Attractor Guidance for Rare Compositional Generation**|Taewon Kang et.al.|[2605.06512](http://arxiv.org/abs/2605.06512)|null|
+|**2026-05-07**|**FreeSpec: Training-Free Long Video Generation via Singular-Spectrum Reconstruction**|Fangda Chen et.al.|[2605.06509](http://arxiv.org/abs/2605.06509)|null|
+|**2026-05-07**|**MARBLE: Multi-Aspect Reward Balance for Diffusion RL**|Canyu Zhao et.al.|[2605.06507](http://arxiv.org/abs/2605.06507)|null|
+|**2026-05-07**|**Decoupled PFNs: Identifiable Epistemic-Aleatoric Decomposition via Structured Synthetic Priors**|Richard Bergna et.al.|[2605.06413](http://arxiv.org/abs/2605.06413)|null|
+|**2026-05-07**|**Reconstruction or Semantics? What Makes a Latent Space Useful for Robotic World Models**|Nilaksh et.al.|[2605.06388](http://arxiv.org/abs/2605.06388)|null|
+|**2026-05-07**|**Continuous-Time Distribution Matching for Few-Step Diffusion Distillation**|Tao Liu et.al.|[2605.06376](http://arxiv.org/abs/2605.06376)|null|
+|**2026-05-07**|**The Interplay of Data Structure and Imbalance in the Learning Dynamics of Diffusion Models**|Flavio Nicoletti et.al.|[2605.06367](http://arxiv.org/abs/2605.06367)|null|
 |**2026-05-06**|**Taming Outlier Tokens in Diffusion Transformers**|Xiaoyu Wu et.al.|[2605.05206](http://arxiv.org/abs/2605.05206)|null|
 |**2026-05-06**|**D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models**|Dengyang Jiang et.al.|[2605.05204](http://arxiv.org/abs/2605.05204)|null|
 |**2026-05-06**|**PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World**|Yunhan Yang et.al.|[2605.05163](http://arxiv.org/abs/2605.05163)|null|
@@ -161,12 +176,22 @@
 |**2026-04-23**|**TopoStyle: Supporting Iterative Design with Generative AI for 2.5D Topology Optimization**|Shuyue Feng et.al.|[2604.21315](http://arxiv.org/abs/2604.21315)|null|
 |**2026-04-23**|**LatRef-Diff: Latent and Reference-Guided Diffusion for Facial Attribute Editing and Style Manipulation**|Wenmin Huang et.al.|[2604.21279](http://arxiv.org/abs/2604.21279)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Vision-Language Distillation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs**|Pranav Mantini et.al.|[2605.06477](http://arxiv.org/abs/2605.06477)|null|
+|**2026-05-07**|**A Regime Theory of Controller Class Selection for LLM Action Decisions**|Zhaoyang Jiang et.al.|[2605.06339](http://arxiv.org/abs/2605.06339)|null|
+|**2026-05-07**|**Event-Causal RAG: A Retrieval-Augmented Generation Framework for Long Video Reasoning in Complex Scenarios**|Peizheng Yan et.al.|[2605.06185](http://arxiv.org/abs/2605.06185)|null|
+|**2026-05-07**|**Retina-RAG: Retrieval-Augmented Vision-Language Modeling for Joint Retinal Diagnosis and Clinical Report Generation**|Abdelrahman Zaian et.al.|[2605.06173](http://arxiv.org/abs/2605.06173)|null|
+|**2026-05-07**|**Uncovering Entity Identity Confusion in Multimodal Knowledge Editing**|Shu Wu et.al.|[2605.06096](http://arxiv.org/abs/2605.06096)|null|
+|**2026-05-07**|**Towards Self-Explainable Document Visual Question Answering with Chain-of-Explanation Predictions**|Kjetil Indrehus et.al.|[2605.06058](http://arxiv.org/abs/2605.06058)|null|
+|**2026-05-07**|**Fusion in Your Way: Aligning Image Fusion with Heterogeneous Demands via Direct Preference Optimization**|Weijian Su et.al.|[2605.06049](http://arxiv.org/abs/2605.06049)|null|
+|**2026-05-07**|**PlotPick: AI-powered batch extraction of numerical data from scientific figures**|Tommy Carstensen et.al.|[2605.06021](http://arxiv.org/abs/2605.06021)|null|
+|**2026-05-07**|**4DThinker: Thinking with 4D Imagery for Dynamic Spatial Understanding**|Zhangquan Chen et.al.|[2605.05997](http://arxiv.org/abs/2605.05997)|null|
+|**2026-05-07**|**Plug-and-play Class-aware Knowledge Injection for Prompt Learning with Visual-Language Model**|Junhui Yin et.al.|[2605.05910](http://arxiv.org/abs/2605.05910)|null|
 |**2026-05-06**|**Wasserstein-Aligned Localisation for VLM-Based Distributional OOD Detection in Medical Imaging**|Bernhard Kainz et.al.|[2605.05161](http://arxiv.org/abs/2605.05161)|null|
 |**2026-05-06**|**Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation**|Hongxu Chen et.al.|[2605.05054](http://arxiv.org/abs/2605.05054)|null|
 |**2026-05-06**|**When Relations Break: Analyzing Relation Hallucination in Vision-Language Model Under Rotation and Noise**|Philip Wootaek Shin et.al.|[2605.05045](http://arxiv.org/abs/2605.05045)|null|
@@ -255,12 +280,22 @@
 |**2026-04-23**|**Reasoning About Traversability: Language-Guided Off-Road 3D Trajectory Planning**|Byounggun Park et.al.|[2604.21249](http://arxiv.org/abs/2604.21249)|null|
 |**2026-04-23**|**Reinforcing 3D Understanding in Point-VLMs via Geometric Reward Credit Assignment**|Jingkun Chen et.al.|[2604.21160](http://arxiv.org/abs/2604.21160)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 ## Domain Generalization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study**|Hao Dong et.al.|[2605.06643](http://arxiv.org/abs/2605.06643)|null|
+|**2026-05-07**|**Parser agreement and disagreement in L2 Korean UD: Implications for human-in-the-loop annotation**|Hakyung Sung et.al.|[2605.06625](http://arxiv.org/abs/2605.06625)|null|
+|**2026-05-07**|**Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent**|Chenyang Zhang et.al.|[2605.06609](http://arxiv.org/abs/2605.06609)|null|
+|**2026-05-07**|**On the Safety of Graph Representation Learning**|Xiaoguang Guo et.al.|[2605.06576](http://arxiv.org/abs/2605.06576)|null|
+|**2026-05-07**|**Agentic AIs Are the Missing Paradigm for Out-of-Distribution Generalization in Foundation Models**|Xin Wang et.al.|[2605.06522](http://arxiv.org/abs/2605.06522)|null|
+|**2026-05-07**|**Estimate Level Adjustment For Inference With Proxies Under Random Distribution Shifts**|Steven Wilkins-Reeves et.al.|[2605.06484](http://arxiv.org/abs/2605.06484)|null|
+|**2026-05-07**|**GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs**|Pranav Mantini et.al.|[2605.06477](http://arxiv.org/abs/2605.06477)|null|
+|**2026-05-07**|**Light-FMP: Lightweight Feature and Model Pruning for Enhanced Deep Recommender Systems**|Nghia Bui et.al.|[2605.06441](http://arxiv.org/abs/2605.06441)|null|
+|**2026-05-07**|**Domain Generalization through Spatial Relation Induction over Visual Primitives**|Dat Nguyen et.al.|[2605.06043](http://arxiv.org/abs/2605.06043)|null|
+|**2026-05-07**|**Hypothesis generation and updating in large language models**|Hua-Dong Xiong et.al.|[2605.05851](http://arxiv.org/abs/2605.05851)|null|
 |**2026-05-06**|**CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization**|Yu-Hsi Chen et.al.|[2605.05136](http://arxiv.org/abs/2605.05136)|null|
 |**2026-05-06**|**Order Matters: Improving Domain Adaptation by Reordering Data**|Andrea Napoli et.al.|[2605.05084](http://arxiv.org/abs/2605.05084)|null|
 |**2026-05-06**|**Prompt-Anchored Vision-Text Distillation for Lifelong Person Re-identification**|Wen Wen et.al.|[2605.05027](http://arxiv.org/abs/2605.05027)|null|
@@ -346,7 +381,7 @@
 |**2026-04-22**|**TRAVELFRAUDBENCH: A Configurable Evaluation Framework for GNN Fraud Ring Detection in Travel Networks**|Bhavana Sajja et.al.|[2604.21093](http://arxiv.org/abs/2604.21093)|null|
 |**2026-04-22**|**Domain-Aware Hierarchical Contrastive Learning for Semi-Supervised Generalization Fault Diagnosis**|Junyu Ren et.al.|[2604.20928](http://arxiv.org/abs/2604.20928)|null|
 
-<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
