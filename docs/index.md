@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Data-Free Knowledge Distillation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Nano-U: Efficient Terrain Segmentation for Tiny Robot Navigation**|Federico Pizzolato et.al.|[2605.10210](http://arxiv.org/abs/2605.10210)|null|
+|**2026-05-11**|**Evolving Knowledge Distillation for Lightweight Neural Machine Translation**|Xuewen Zhang et.al.|[2605.09924](http://arxiv.org/abs/2605.09924)|null|
+|**2026-05-11**|**Hyperbolic Distillation: Geometry-Guided Cross-Modal Transfer for Robust 3D Object Detection**|Kanglin Ning et.al.|[2605.09899](http://arxiv.org/abs/2605.09899)|null|
+|**2026-05-10**|**Distilling 3D Spatial Reasoning into a Lightweight Vision-Language Model with CoT**|Alaa Asfour et.al.|[2605.09719](http://arxiv.org/abs/2605.09719)|null|
+|**2026-05-10**|**XTinyU-Net: Training-Free U-Net Scaling via Initialization-Time Sensitivity**|Alvin Kimbowa et.al.|[2605.09639](http://arxiv.org/abs/2605.09639)|null|
+|**2026-05-10**|**Evaluating the Expressive Appropriateness of Speech in Rich Contexts**|Tianrui Wang et.al.|[2605.09413](http://arxiv.org/abs/2605.09413)|null|
+|**2026-05-10**|**LiteMedCoT-VL: Parameter-Efficient Adaptation for Medical Visual Question Answering**|Runze Ma et.al.|[2605.09384](http://arxiv.org/abs/2605.09384)|null|
+|**2026-05-10**|**Function-Space ADMM for Decentralized Federated Learning: A Control Theoretic Perspective**|Akihito Taya et.al.|[2605.09356](http://arxiv.org/abs/2605.09356)|null|
+|**2026-05-10**|**A Prompt-Aware Structuring Framework for Reliable Reuse of AI-Generated Content in the Agentic Web**|Shusaku Egami et.al.|[2605.09283](http://arxiv.org/abs/2605.09283)|null|
+|**2026-05-09**|**Compact SO(3) Equivariant Atomistic Foundation Models via Structural Pruning**|Chen Wang et.al.|[2605.08885](http://arxiv.org/abs/2605.08885)|null|
 |**2026-05-08**|**Chain-based Distillation for Effective Initialization of Variable-Sized Small Language Models**|Boyu Shi et.al.|[2605.07783](http://arxiv.org/abs/2605.07783)|null|
 |**2026-05-08**|**LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning**|Yubin Wu et.al.|[2605.07505](http://arxiv.org/abs/2605.07505)|null|
 |**2026-05-08**|**Star Elastic: Many-in-One Reasoning LLMs with Efficient Budget Control**|Ali Taghibakhshi et.al.|[2605.07182](http://arxiv.org/abs/2605.07182)|null|
@@ -71,6 +81,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Empty SPACE: Cross-Attention Sparsity for Concept Erasure in Diffusion Models**|Nicola Novello et.al.|[2605.10198](http://arxiv.org/abs/2605.10198)|null|
+|**2026-05-11**|**PoDAR: Power-Disentangled Audio Representation for Generative Modeling**|Alejandro Luebs et.al.|[2605.10084](http://arxiv.org/abs/2605.10084)|null|
+|**2026-05-11**|**ExtraVAR: Stage-Aware RoPE Remapping for Resolution Extrapolation in Visual Autoregressive Models**|Feihong Yan et.al.|[2605.10045](http://arxiv.org/abs/2605.10045)|null|
+|**2026-05-11**|**Muninn: Your Trajectory Diffusion Model But Faster**|Gokul Puthumanaillam et.al.|[2605.09999](http://arxiv.org/abs/2605.09999)|null|
+|**2026-05-11**|**HapticLDM: A Diffusion Model for Text-to-Vibrotactile Generation**|Jiahao Xiong et.al.|[2605.09971](http://arxiv.org/abs/2605.09971)|null|
+|**2026-05-11**|**RADAR: Redundancy-Aware Diffusion for Multi-Agent Communication Structure Generation**|Zhen Zhang et.al.|[2605.09907](http://arxiv.org/abs/2605.09907)|null|
+|**2026-05-11**|**Concordia: Self-Improving Synthetic Tables for Federated LLMs**|Jimin Huang et.al.|[2605.09855](http://arxiv.org/abs/2605.09855)|null|
+|**2026-05-10**|**TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation**|Hanqun Cao et.al.|[2605.09810](http://arxiv.org/abs/2605.09810)|null|
+|**2026-05-10**|**Marrying Generative Model of Healthcare Events with Digital Twin of Social Determinants of Health for Disease Reasoning**|Ziquan Wei et.al.|[2605.09771](http://arxiv.org/abs/2605.09771)|null|
+|**2026-05-10**|**Primal-Dual Guided Decoding for Constrained Discrete Diffusion**|Federico Tomasi et.al.|[2605.09749](http://arxiv.org/abs/2605.09749)|null|
 |**2026-05-08**|**HEART: Hyperspherical Embedding Alignment via Kent-Representation Traversal in Diffusion Models**|Arani Roy et.al.|[2605.07973](http://arxiv.org/abs/2605.07973)|null|
 |**2026-05-08**|**When Diffusion Model Can Ignore Dimension: An Entropy-Based Theory**|Ahmad Aghapour et.al.|[2605.07969](http://arxiv.org/abs/2605.07969)|null|
 |**2026-05-08**|**How to Train Your Latent Diffusion Language Model Jointly With the Latent Space**|Viacheslav Meshchaninov et.al.|[2605.07933](http://arxiv.org/abs/2605.07933)|null|
@@ -186,6 +206,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Plan in Sandbox, Navigate in Open Worlds: Learning Physics-Grounded Abstracted Experience for Embodied Navigation**|Zhixuan Shen et.al.|[2605.10118](http://arxiv.org/abs/2605.10118)|null|
+|**2026-05-11**|**Med-StepBench: A Hierarchical Reasoning Framework for Evaluating Hallucinations in Medical Vision-Language Models**|Minh Khoi Nguyen et.al.|[2605.10002](http://arxiv.org/abs/2605.10002)|null|
+|**2026-05-11**|**ERASE: Eliminating Redundant Visual Tokens via Adaptive Two-Stage Token Pruning**|Yuna Lee et.al.|[2605.09982](http://arxiv.org/abs/2605.09982)|null|
+|**2026-05-11**|**OZ-TAL: Online Zero-Shot Temporal Action Localization**|Chaolei Han et.al.|[2605.09976](http://arxiv.org/abs/2605.09976)|null|
+|**2026-05-11**|**Learning the Interaction Prior for Protein-Protein Interaction Prediction: A Model-Agnostic Approach**|Ziqi Gao et.al.|[2605.09964](http://arxiv.org/abs/2605.09964)|null|
+|**2026-05-11**|**JODA: Composable Joint Dynamics for Articulated Objects**|Tianhong Gao et.al.|[2605.09954](http://arxiv.org/abs/2605.09954)|null|
+|**2026-05-11**|**The Gordian Knot for VLMs: Diagrammatic Knot Reasoning as a Hard Benchmark**|Hao Liu et.al.|[2605.09900](http://arxiv.org/abs/2605.09900)|null|
+|**2026-05-11**|**When to Re-Commit: Temporal Abstraction Discovery for Long-Horizon Vision-Language Reasoning**|Chen Li et.al.|[2605.09860](http://arxiv.org/abs/2605.09860)|null|
+|**2026-05-11**|**Fashion Florence: Fine-Tuning Florence-2 for Structured Fashion Attribute Extraction**|Anushree Berlia et.al.|[2605.09827](http://arxiv.org/abs/2605.09827)|null|
+|**2026-05-10**|**CrossVL: Complexity-Aware Feature Routing and Paired Curriculum for Cross-View Vision-Language Detection**|Zhipeng Liu et.al.|[2605.09802](http://arxiv.org/abs/2605.09802)|null|
 |**2026-05-08**|**Proxy3D: Efficient 3D Representations for Vision-Language Models via Semantic Clustering and Alignment**|Jerry Jiang et.al.|[2605.08064](http://arxiv.org/abs/2605.08064)|null|
 |**2026-05-08**|**Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models**|Kaidi Jia et.al.|[2605.08031](http://arxiv.org/abs/2605.08031)|null|
 |**2026-05-08**|**MedVIGIL: Evaluating Trustworthy Medical VLMs Under Broken Visual Evidence**|Hanqi Jiang et.al.|[2605.07919](http://arxiv.org/abs/2605.07919)|null|
@@ -298,6 +328,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**AdaptSplat: Adapting Vision Foundation Models for Feed-Forward 3D Gaussian Splatting**|Mingwei Xing et.al.|[2605.10239](http://arxiv.org/abs/2605.10239)|null|
+|**2026-05-11**|**A Comparative Study of Machine Learning and Deep Learning for Out-of-Distribution Detection**|Jihyeon Baek et.al.|[2605.10181](http://arxiv.org/abs/2605.10181)|null|
+|**2026-05-11**|**When Prompts Become Payloads: A Framework for Mitigating SQL Injection Attacks in Large Language Model-Driven Applications**|Farzad Nourmohammadzadeh Motlagh et.al.|[2605.10176](http://arxiv.org/abs/2605.10176)|null|
+|**2026-05-11**|**Thermal-Det: Language-Guided Cross-Modal Distillation for Open-Vocabulary Thermal Object Detection**|Yasiru Ranasinghe et.al.|[2605.10130](http://arxiv.org/abs/2605.10130)|null|
+|**2026-05-11**|**MUSDA: Multi-source Multi-modality Unsupervised Domain Adaptive 3D Object Detection for Autonomous Driving**|Xiaohu Lu et.al.|[2605.10026](http://arxiv.org/abs/2605.10026)|null|
+|**2026-05-11**|**Environment-Conditioned Diffusion Meta-Learning for Data-Efficient WiFi Localization**|Jun Gao et.al.|[2605.10004](http://arxiv.org/abs/2605.10004)|null|
+|**2026-05-11**|**Learning Graph Foundation Models on Riemannian Graph-of-Graphs**|Haokun Liu et.al.|[2605.09993](http://arxiv.org/abs/2605.09993)|null|
+|**2026-05-11**|**Frequency Adapter with SAM for Generalized Medical Image Segmentation**|Phuoc-Nguyen Bui et.al.|[2605.09925](http://arxiv.org/abs/2605.09925)|null|
+|**2026-05-11**|**Modeling Atomic Conformational Ensembles of Proteins via Test-Time Supervision of Boltz-2 on Cryo-EM Density Maps**|Jay Shenoy et.al.|[2605.09832](http://arxiv.org/abs/2605.09832)|null|
+|**2026-05-10**|**cantnlp@DravidianLangTech 2026: organic domain adaptation improves multi-class hope speech detection in Tulu**|Andrew Li et.al.|[2605.09795](http://arxiv.org/abs/2605.09795)|null|
 |**2026-05-08**|**PET-Adapter: Test-Time Domain Adaptation for Full and Limited-Angle PET Image Reconstruction**|Rüveyda Yilmaz et.al.|[2605.08030](http://arxiv.org/abs/2605.08030)|null|
 |**2026-05-08**|**Flatness and Gradient Alignment Are Both Necessary: Spectral-Aware Gradient-Aligned Exploration for Multi-Distribution Learning**|Aristotelis Ballas et.al.|[2605.07914](http://arxiv.org/abs/2605.07914)|null|
 |**2026-05-08**|**CommandSwarm: Safety-Aware Natural Language-to-Behavior-Tree Generation for Robotic Swarms**|Mohammed Majid et.al.|[2605.07764](http://arxiv.org/abs/2605.07764)|null|
