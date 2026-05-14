@@ -1,4 +1,4 @@
-## Updated on 2026.05.13
+## Updated on 2026.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**On the Generalization of Knowledge Distillation: An Information-Theoretic View**|Bingying Li et.al.|[2605.13143](http://arxiv.org/abs/2605.13143)|null|
+|**2026-05-13**|**Flow Augmentation and Knowledge Distillation for Lightweight Face Presentation Attack Detection**|Muhammad Shahid Jabbar et.al.|[2605.13108](http://arxiv.org/abs/2605.13108)|null|
+|**2026-05-12**|**Uncovering Latent Pathological Signatures in Pulmonary CT via Cross-Window Knowledge Distillation**|Bo Peng et.al.|[2605.12562](http://arxiv.org/abs/2605.12562)|null|
 |**2026-05-12**|**Combining On-Policy Optimization and Distillation for Long-Context Reasoning in Large Language Models**|Miguel Moura Ramos et.al.|[2605.12227](http://arxiv.org/abs/2605.12227)|null|
 |**2026-05-12**|**Efficient LLM-based Advertising via Model Compression and Parallel Verification**|Wenxin Dong et.al.|[2605.11582](http://arxiv.org/abs/2605.11582)|null|
 |**2026-05-12**|**A Study on Hidden Layer Distillation for Large Language Model Pre-Training**|Maxime Guigon et.al.|[2605.11513](http://arxiv.org/abs/2605.11513)|null|
@@ -93,12 +96,22 @@
 |**2026-04-19**|**Recovery Guarantees for Continual Learning of Dependent Tasks: Memory, Data-Dependent Regularization, and Data-Dependent Weights**|Liangzu Peng et.al.|[2604.17578](http://arxiv.org/abs/2604.17578)|null|
 |**2026-04-19**|**BreathAI: Transfer Learning-Based Thermal Imaging for Automated Breathing Pattern Recognition**|Hamza Kheddar et.al.|[2604.17442](http://arxiv.org/abs/2604.17442)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Diffusion-based Distillation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Coordinating Multiple Conditions for Trajectory-Controlled Human Motion Generation**|Deli Cai et.al.|[2605.13729](http://arxiv.org/abs/2605.13729)|null|
+|**2026-05-13**|**AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation**|Yuchao Gu et.al.|[2605.13724](http://arxiv.org/abs/2605.13724)|null|
+|**2026-05-13**|**Learning to Optimize Radiotherapy Plans via Fluence Maps Diffusion Model Generation and LSTM-based Optimization**|Isabella Poles et.al.|[2605.13713](http://arxiv.org/abs/2605.13713)|null|
+|**2026-05-13**|**Cross Modality Image Translation In Medical Imaging Using Generative Frameworks**|Giulia Romoli et.al.|[2605.13686](http://arxiv.org/abs/2605.13686)|null|
+|**2026-05-13**|**Sampling from Flow Language Models via Marginal-Conditioned Bridges**|Iskander Azangulov et.al.|[2605.13681](http://arxiv.org/abs/2605.13681)|null|
+|**2026-05-13**|**HIR-ALIGN: Enhancing Hyperspectral Image Restoration via Diffusion-Based Data Generation**|Li Pang et.al.|[2605.13581](http://arxiv.org/abs/2605.13581)|null|
+|**2026-05-13**|**Anisotropic Dopant and Strain Architectures in WS $_2$ Nanocrystals Driven by Growth Kinetics**|Frederico B. Sousa et.al.|[2605.13577](http://arxiv.org/abs/2605.13577)|null|
+|**2026-05-13**|**Qwen-Image-VAE-2.0 Technical Report**|Zekai Zhang et.al.|[2605.13565](http://arxiv.org/abs/2605.13565)|null|
+|**2026-05-13**|**On the Limits of Latent Reuse in Diffusion Models**|Yifeng Yu et.al.|[2605.13448](http://arxiv.org/abs/2605.13448)|null|
+|**2026-05-13**|**Seconds-Aligned PCA-DAC Latent Diffusion for Symbolic-to-Audio Drum Rendering**|Konstantinos Soiledis et.al.|[2605.13404](http://arxiv.org/abs/2605.13404)|null|
 |**2026-05-12**|**AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward**|Runhui Huang et.al.|[2605.12495](http://arxiv.org/abs/2605.12495)|null|
 |**2026-05-12**|**GaitProtector: Impersonation-Driven Gait De-Identification via Training-Free Diffusion Latent Optimization**|Huiran Duan et.al.|[2605.12431](http://arxiv.org/abs/2605.12431)|null|
 |**2026-05-12**|**GeoQuery: Geometry-Query Diffusion for Sparse-View Reconstruction**|Xiao Cao et.al.|[2605.12399](http://arxiv.org/abs/2605.12399)|null|
@@ -230,12 +243,22 @@
 |**2026-04-23**|**TopoStyle: Supporting Iterative Design with Generative AI for 2.5D Topology Optimization**|Shuyue Feng et.al.|[2604.21315](http://arxiv.org/abs/2604.21315)|null|
 |**2026-04-23**|**LatRef-Diff: Latent and Reference-Guided Diffusion for Facial Attribute Editing and Style Manipulation**|Wenmin Huang et.al.|[2604.21279](http://arxiv.org/abs/2604.21279)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Vision-Language Distillation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning**|Hao Sun et.al.|[2605.13835](http://arxiv.org/abs/2605.13835)|null|
+|**2026-05-13**|**Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context**|Zhaowei Wang et.al.|[2605.13831](http://arxiv.org/abs/2605.13831)|null|
+|**2026-05-13**|**RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data**|Harold Haodong Chen et.al.|[2605.13775](http://arxiv.org/abs/2605.13775)|null|
+|**2026-05-13**|**SceneGraphVLM: Dynamic Scene Graph Generation from Video with Vision-Language Models**|Vladislav Makarov et.al.|[2605.13667](http://arxiv.org/abs/2605.13667)|null|
+|**2026-05-13**|**ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections**|Kebin Contreras et.al.|[2605.13631](http://arxiv.org/abs/2605.13631)|null|
+|**2026-05-13**|**GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models**|Mingzhe Huang et.al.|[2605.13375](http://arxiv.org/abs/2605.13375)|null|
+|**2026-05-13**|**GeoFlowVLM: Geometry-Aware Joint Uncertainty for Frozen Vision-Language Embedding**|Mayank Nautiyal et.al.|[2605.13352](http://arxiv.org/abs/2605.13352)|null|
+|**2026-05-13**|**KamonBench: A Grammar-Based Dataset for Evaluating Compositional Factor Recovery in Vision-Language Models**|Richard Sproat et.al.|[2605.13322](http://arxiv.org/abs/2605.13322)|null|
+|**2026-05-13**|**HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation**|Haoxuan Xu et.al.|[2605.13321](http://arxiv.org/abs/2605.13321)|null|
+|**2026-05-13**|**STAR: Semantic-Temporal Adaptive Representation Learning for Few-Shot Action Recognition**|Hongli Liu et.al.|[2605.13202](http://arxiv.org/abs/2605.13202)|null|
 |**2026-05-12**|**SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture**|Haiwen Diao et.al.|[2605.12500](http://arxiv.org/abs/2605.12500)|null|
 |**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Xiaosong Jia et.al.|[2605.12369](http://arxiv.org/abs/2605.12369)|null|
 |**2026-05-12**|**Reinforcing VLAs in Task-Agnostic World Models**|Yucen Wang et.al.|[2605.12334](http://arxiv.org/abs/2605.12334)|null|
@@ -364,12 +387,21 @@
 |**2026-04-23**|**Reasoning About Traversability: Language-Guided Off-Road 3D Trajectory Planning**|Byounggun Park et.al.|[2604.21249](http://arxiv.org/abs/2604.21249)|null|
 |**2026-04-23**|**Reinforcing 3D Understanding in Point-VLMs via Geometric Reward Credit Assignment**|Jingkun Chen et.al.|[2604.21160](http://arxiv.org/abs/2604.21160)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 ## Domain Generalization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**From DES to KiDS: Domain adaptation for cross-survey detection of low-surface-brightness galaxies**|Hareesh Thuruthipilly et.al.|[2605.13842](http://arxiv.org/abs/2605.13842)|null|
+|**2026-05-13**|**OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation**|Youquan Liu et.al.|[2605.13815](http://arxiv.org/abs/2605.13815)|null|
+|**2026-05-13**|**Moving beyond spatial and random cross-validation in environmental modelling: a call for prediction-domain adaptive evaluation**|Jan Linnenbrink et.al.|[2605.13689](http://arxiv.org/abs/2605.13689)|null|
+|**2026-05-13**|**Decoupled and Divergence-Conditioned Prompt for Multi-domain Dynamic Graph Foundation Models**|Haonan Yuan et.al.|[2605.13540](http://arxiv.org/abs/2605.13540)|null|
+|**2026-05-13**|**Img2CADSeq: Image-to-CAD Generation via Sequence-Based Diffusion**|Shiyu Tan et.al.|[2605.13293](http://arxiv.org/abs/2605.13293)|null|
+|**2026-05-13**|**Multi-Modal Guided Multi-Source Domain Adaptation for Object Detection**|Sangin Lee et.al.|[2605.13140](http://arxiv.org/abs/2605.13140)|null|
+|**2026-05-13**|**What Information Matters? Graph Out-of-Distribution Detection via Tri-Component Information Decomposition**|Danny Wang et.al.|[2605.13032](http://arxiv.org/abs/2605.13032)|null|
+|**2026-05-13**|**A General Bézier Tree Encoding Counterfactual Framework for Retinal-Vessel-Mediated Disease Analysis**|Tan Su et.al.|[2605.13015](http://arxiv.org/abs/2605.13015)|null|
+|**2026-05-13**|**ImageAttributionBench: How Far Are We from Generalizable Attribution?**|Tingshu Mou et.al.|[2605.12967](http://arxiv.org/abs/2605.12967)|null|
 |**2026-05-12**|**Scalable Token-Level Hallucination Detection in Large Language Models**|Rui Min et.al.|[2605.12384](http://arxiv.org/abs/2605.12384)|null|
 |**2026-05-12**|**GuidedVLA: Specifying Task-Relevant Factors via Plug-and-Play Action Attention Specialization**|Xiaosong Jia et.al.|[2605.12369](http://arxiv.org/abs/2605.12369)|null|
 |**2026-05-12**|**Large-Small Model Collaboration for Farmland Semantic Change Detection**|Xinjia Li et.al.|[2605.12282](http://arxiv.org/abs/2605.12282)|null|
@@ -492,7 +524,7 @@
 |**2026-04-22**|**TRAVELFRAUDBENCH: A Configurable Evaluation Framework for GNN Fraud Ring Detection in Travel Networks**|Bhavana Sajja et.al.|[2604.21093](http://arxiv.org/abs/2604.21093)|null|
 |**2026-04-22**|**Domain-Aware Hierarchical Contrastive Learning for Semi-Supervised Generalization Fault Diagnosis**|Junyu Ren et.al.|[2604.20928](http://arxiv.org/abs/2604.20928)|null|
 
-<p align=right>(<a href=#updated-on-20260513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260514>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
