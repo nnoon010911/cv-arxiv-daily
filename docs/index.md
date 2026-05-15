@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Data-Free Knowledge Distillation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**BiFedKD: Bidirectional Federated Knowledge Distillation Framework for Non-IID and Long-Tailed ECG Monitoring**|Zixuan Shu et.al.|[2605.14886](http://arxiv.org/abs/2605.14886)|null|
+|**2026-05-14**|**Cognitive-Uncertainty Guided Knowledge Distillation for Accurate Classification of Student Misconceptions**|Qirui Liu et.al.|[2605.14752](http://arxiv.org/abs/2605.14752)|null|
+|**2026-05-14**|**Learning with Semantic Priors: Stabilizing Point-Supervised Infrared Small Target Detection via Hierarchical Knowledge Distillation**|Yuanhang Yao et.al.|[2605.14346](http://arxiv.org/abs/2605.14346)|null|
+|**2026-05-14**|**Not All Timesteps Matter Equally: Selective Alignment Knowledge Distillation for Spiking Neural Networks**|Kai Sun et.al.|[2605.14252](http://arxiv.org/abs/2605.14252)|null|
+|**2026-05-13**|**Mini-JEPA Foundation Model Fleet Enables Agentic Hydrologic Intelligence**|Mashrekur Rahman et.al.|[2605.14120](http://arxiv.org/abs/2605.14120)|null|
+|**2026-05-13**|**Towards Resource-Efficient LLMs: End-to-End Energy Accounting of Distillation Pipelines**|Katherine Lambert et.al.|[2605.13981](http://arxiv.org/abs/2605.13981)|null|
 |**2026-05-13**|**On the Generalization of Knowledge Distillation: An Information-Theoretic View**|Bingying Li et.al.|[2605.13143](http://arxiv.org/abs/2605.13143)|null|
 |**2026-05-13**|**Flow Augmentation and Knowledge Distillation for Lightweight Face Presentation Attack Detection**|Muhammad Shahid Jabbar et.al.|[2605.13108](http://arxiv.org/abs/2605.13108)|null|
 |**2026-05-12**|**Uncovering Latent Pathological Signatures in Pulmonary CT via Cross-Window Knowledge Distillation**|Bo Peng et.al.|[2605.12562](http://arxiv.org/abs/2605.12562)|null|
@@ -94,6 +100,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**RefDecoder: Enhancing Visual Generation with Conditional Video Decoding**|Xiang Fan et.al.|[2605.15196](http://arxiv.org/abs/2605.15196)|null|
+|**2026-05-14**|**RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO**|Yanzuo Lu et.al.|[2605.15190](http://arxiv.org/abs/2605.15190)|null|
+|**2026-05-14**|**DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models**|Quanhao Li et.al.|[2605.15055](http://arxiv.org/abs/2605.15055)|null|
+|**2026-05-14**|**Compositional Video Generation via Inference-Time Guidance**|Ariel Shaulov et.al.|[2605.14988](http://arxiv.org/abs/2605.14988)|null|
+|**2026-05-14**|**MicroscopyMatching: Towards a Ready-to-use Framework for Microscopy Image Analysis in Diverse Conditions**|Xiaofei Hui et.al.|[2605.14980](http://arxiv.org/abs/2605.14980)|null|
+|**2026-05-14**|**ACE-LoRA: Adaptive Orthogonal Decoupling for Continual Image Editing**|Yuehao Liu et.al.|[2605.14948](http://arxiv.org/abs/2605.14948)|null|
+|**2026-05-14**|**SEDiT: Mask-Free Video Subtitle Erasure via One-step Diffusion Transformer**|Zheng Hui et.al.|[2605.14894](http://arxiv.org/abs/2605.14894)|null|
+|**2026-05-14**|**HDRFace: Rethinking Face Restoration with High-Dimensional Representation**|Zirui Wang et.al.|[2605.14821](http://arxiv.org/abs/2605.14821)|null|
+|**2026-05-14**|**Probing into Camera Control of Video Models**|Chen Hou et.al.|[2605.14815](http://arxiv.org/abs/2605.14815)|null|
+|**2026-05-14**|**ReMIA: a Powerful and Efficient Alternative to Membership Inference Attacks against Synthetic Data Generators**|Davide Scassola et.al.|[2605.14686](http://arxiv.org/abs/2605.14686)|null|
 |**2026-05-13**|**Coordinating Multiple Conditions for Trajectory-Controlled Human Motion Generation**|Deli Cai et.al.|[2605.13729](http://arxiv.org/abs/2605.13729)|null|
 |**2026-05-13**|**AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation**|Yuchao Gu et.al.|[2605.13724](http://arxiv.org/abs/2605.13724)|null|
 |**2026-05-13**|**Learning to Optimize Radiotherapy Plans via Fluence Maps Diffusion Model Generation and LSTM-based Optimization**|Isabella Poles et.al.|[2605.13713](http://arxiv.org/abs/2605.13713)|null|
@@ -239,6 +255,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Does Synthetic Layered Design Data Benefit Layered Design Decomposition?**|Kam Man Wu et.al.|[2605.15167](http://arxiv.org/abs/2605.15167)|null|
+|**2026-05-14**|**On the Cultural Anachronism and Temporal Reasoning in Vision Language Models**|Mukul Ranjan et.al.|[2605.15071](http://arxiv.org/abs/2605.15071)|null|
+|**2026-05-14**|**LATERN: Test-Time Context-Aware Explainable Video Anomaly Detection**|Mitchell Piehl et.al.|[2605.15054](http://arxiv.org/abs/2605.15054)|null|
+|**2026-05-14**|**MHSA: A Lightweight Framework for Mitigating Hallucinations via Steered Attention in LVLMs**|Wei Ding et.al.|[2605.14966](http://arxiv.org/abs/2605.14966)|null|
+|**2026-05-14**|**Chain-of-Procedure: Hierarchical Visual-Language Reasoning for Procedural QA**|Guanhua Chen et.al.|[2605.14928](http://arxiv.org/abs/2605.14928)|null|
+|**2026-05-14**|**SteerSeg: Attention Steering for Reasoning Video Segmentation**|Ali Cheraghian et.al.|[2605.14908](http://arxiv.org/abs/2605.14908)|null|
+|**2026-05-14**|**MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models**|Xiyu Ren et.al.|[2605.14906](http://arxiv.org/abs/2605.14906)|null|
+|**2026-05-14**|**Your CLIP has 164 dimensions of noise: Exploring the embeddings covariance eigenspectrum of contrastively pretrained vision-language transformers**|Jakub Grzywaczewski et.al.|[2605.14893](http://arxiv.org/abs/2605.14893)|null|
+|**2026-05-14**|**Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study**|Marta Robledo-Moreno et.al.|[2605.14845](http://arxiv.org/abs/2605.14845)|null|
+|**2026-05-14**|**Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN**|Ziyi Xia et.al.|[2605.14801](http://arxiv.org/abs/2605.14801)|null|
 |**2026-05-13**|**Unlocking Patch-Level Features for CLIP-Based Class-Incremental Learning**|Hao Sun et.al.|[2605.13835](http://arxiv.org/abs/2605.13835)|null|
 |**2026-05-13**|**Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context**|Zhaowei Wang et.al.|[2605.13831](http://arxiv.org/abs/2605.13831)|null|
 |**2026-05-13**|**RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data**|Harold Haodong Chen et.al.|[2605.13775](http://arxiv.org/abs/2605.13775)|null|
@@ -381,6 +407,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Beyond AI as Assistants: Toward Autonomous Discovery in Cosmology**|Licong Xu et.al.|[2605.14791](http://arxiv.org/abs/2605.14791)|null|
+|**2026-05-14**|**Towards Continuous Sign Language Conversation from Isolated Signs**|Youngmin Kim et.al.|[2605.14705](http://arxiv.org/abs/2605.14705)|null|
+|**2026-05-14**|**FedStain: Modeling Higher-Order Stain Statistics for Federated Domain Generalization in Computational Pathology**|Fengyi Zhang et.al.|[2605.14590](http://arxiv.org/abs/2605.14590)|null|
+|**2026-05-14**|**When Answers Stray from Questions: Hallucination Detection via Question-Answer Orthogonal Decomposition**|Siyang Yao et.al.|[2605.14449](http://arxiv.org/abs/2605.14449)|null|
+|**2026-05-14**|**A Formative Study of Brief Affective Text as a Complement to Wearable Sensing for Longitudinal Student Health Monitoring**|Tamunotonye Harry et.al.|[2605.14360](http://arxiv.org/abs/2605.14360)|null|
+|**2026-05-14**|**Refining Pseudo-Audio Prompts with Speech-Text Alignment for Text-Only Domain Adaptation in LLM-Based ASR**|Ryo Magoshi et.al.|[2605.14340](http://arxiv.org/abs/2605.14340)|null|
+|**2026-05-14**|**Language-Induced Priors for Domain Adaptation**|Qiyuan Chen et.al.|[2605.14301](http://arxiv.org/abs/2605.14301)|null|
+|**2026-05-14**|**TILT: Target-induced loss tilting under covariate shift**|Kakei Yamamoto et.al.|[2605.14280](http://arxiv.org/abs/2605.14280)|null|
+|**2026-05-14**|**Generative Deep Learning for Computational Destaining and Restaining of Unregistered Digital Pathology Images**|Aarushi Kulkarni et.al.|[2605.14251](http://arxiv.org/abs/2605.14251)|null|
 |**2026-05-13**|**From DES to KiDS: Domain adaptation for cross-survey detection of low-surface-brightness galaxies**|Hareesh Thuruthipilly et.al.|[2605.13842](http://arxiv.org/abs/2605.13842)|null|
 |**2026-05-13**|**OmniLiDAR: A Unified Diffusion Framework for Multi-Domain 3D LiDAR Generation**|Youquan Liu et.al.|[2605.13815](http://arxiv.org/abs/2605.13815)|null|
 |**2026-05-13**|**Moving beyond spatial and random cross-validation in environmental modelling: a call for prediction-domain adaptive evaluation**|Jan Linnenbrink et.al.|[2605.13689](http://arxiv.org/abs/2605.13689)|null|
